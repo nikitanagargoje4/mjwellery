@@ -223,4 +223,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Note**: This implementation includes Razorpay integration with proper security measures. In production, ensure proper backend integration for enhanced security and compliance.
+**Note**: This implementation includes Razorpay integration with proper security measures. In production, ensure proper backend integration for enhanced security and compliance.# mj
